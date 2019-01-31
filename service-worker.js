@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/wechat-conversation-simulator/precache-manifest.86e908acb6c8272d58fb5cde2e473996.js"
+  "/wechat-conversation-simulator/precache-manifest.0d92eff5a0b35ec697f903eb92a799ce.js"
 );
 
 workbox.clientsClaim();

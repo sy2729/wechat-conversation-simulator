@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1ce9c252df02ea87f12a",
+    "revision": "30290fa1182fe091ef01",
     "url": "/wechat-conversation-simulator/static/css/main.53d78185.chunk.css"
   },
   {
-    "revision": "1ce9c252df02ea87f12a",
-    "url": "/wechat-conversation-simulator/static/js/main.1ce9c252.chunk.js"
+    "revision": "30290fa1182fe091ef01",
+    "url": "/wechat-conversation-simulator/static/js/main.30290fa1.chunk.js"
   },
   {
     "revision": "00750e2df05141866981",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/wechat-conversation-simulator/static/js/runtime~main.5ce7b372.js"
   },
   {
-    "revision": "7f4c7030da6efe1392bcf81752c8727a",
+    "revision": "68d8806af1157758007ac7d11bf11c83",
     "url": "/wechat-conversation-simulator/index.html"
   }
 ];
